@@ -1,3 +1,3 @@
 # Ignore build artifacts
-dbms/DBMS_python/uncomit/
+DBMS/DBMS_python/uncomit/
 TDS/ga_1f/uncomit/
