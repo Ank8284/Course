@@ -1,3 +1,37 @@
 # Ignore build artifacts
 DBMS/DBMS_python/uncomit/
 TDS/ga_1f/uncomit/
+TDS/ga_2f/uncomit/
+TDS/ga_3f/uncomit/
+TDS/ga_4f/uncomit/
+TDS/ga_5f/uncomit/
+TDS/ga_6f/uncomit/
+TDS/ga_7f/uncomit/
+TDS/ga_8f/uncomit/
+TDS/ga_9f/uncomit/
+# Ignore Python cache files
+__pycache__/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore virtual environment directories
+venv/
+# Ignore data files
+data/
+# Ignore logs
+logs/
+# Ignore configuration files
+*.cfg
+# Ignore temporary files
+*.tmp
+# Ignore backup files
+*.bak
+# Ignore compiled Python files
+*.pyc
+# Ignore test output files
+*.out
+# Ignore coverage reports
+*.coverage
+# Ignore IDE specific files
+.idea/
+# Ignore Jupyter Notebook metadata
+*.ipynb_checkpoints/
