@@ -1,11 +1,11 @@
 # Intro
 This respostory will contains the course work which is required to complete the task of assigned course 
-    -**TDS**
+    - **TDS**
     - **JAVA**
     - **MLP**
     - **DBMS**
-## Update:
-Will avialabe on weekly basis
+## Update :
+Will avialabe on weekly basis ;)
 
 ## TDS : 
 This course is structured around seven comprehensive modules that collectively provide a strong foundation in data science. Starting with essential development and deployment tools, learners will progress through advanced topics such as leveraging large language models (LLMs), sourcing and preparing data, analyzing datasets, and creating impactful visualizations. Each module is designed to build practical skills and knowledge, ensuring learners are well-equipped for real-world applications in data science and beyond.
@@ -21,7 +21,7 @@ This course is structured around seven comprehensive modules that collectively p
 
 ## JAVA :
 This course will cover following modules:
-- WEEK 1:  Basic Object Oriented Programming: Class Hierarchy
+    - WEEK 1:  Basic Object Oriented Programming: Class Hierarchy
     - WEEK 2:	Basic Object Oriented Programming: Inheritance, Overriding
     - WEEK 3:	Basic Object Oriented Programming: Polymorphism
     - WEEK 4:	Basic Object Oriented Programming: Abstract Classes
@@ -38,7 +38,7 @@ This course will cover following modules:
     - WEEK 11: Concurrent programming (Continued)
     - WEEK 12: Concurrent programming (Continued)
         - END TERM: 
-    ### Prescribed Books 
+    ### Prescribed Books :
         o Concepts in Programming Languages by John C. Mitchell
         o Java The Complete Reference Eleventh Edition Paperback by Herbert Schildt
         o Effective Java Second Edition Paperback by Joshua Bloch
@@ -46,7 +46,7 @@ This course will cover following modules:
 
 
 ## MLP :
-This course will cover mostly the coding which will be done on google colab and will cover:
+This course will cover mostly the coding which will be done on Google Colab and will cover:
 
 ### Goal: 
     - Understand the life cycle of a machine learning project: typical steps involved and tools that can be used in each step.
@@ -74,9 +74,9 @@ This course will cover mostly the coding which will be done on google colab and 
       -  END TERM: 
 
 
-### The prescribed textbook for this course is: 
-      * Hands-On Machine Learning with Scikit-Learn and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélion Géron.
-      * [Scikit-learn user guide.](https://scikit-learn.org/stable/user_guide.html)
+### The prescribed textbook for this course is : 
+      - Hands-On Machine Learning with Scikit-Learn and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélion Géron.
+      - [Scikit-learn user guide.](https://scikit-learn.org/stable/user_guide.html)
 
 
 ## DBMS :
@@ -98,5 +98,15 @@ This couse will cover SQL
     - WEEK 12: Query Optimization and Conclusion
         -  END TERM: 
 
-### Prescribed Books
-     * Database Management Systems - Abraham Silberschatz , Henry F. Korth, S. Sudarshan
+### Prescribed Books :
+     - Database Management Systems - Abraham Silberschatz , Henry F. Korth, S. Sudarshan
+
+# Projects :
+In this section we will be covering the projects which we are gona work on :
+
+## TDS :
+### Project_1: TDS Virtual TA 
+    - Creating a virtual Teaching Assistant Discourse responder.
+
+## MLP :
+Yet to decide !
