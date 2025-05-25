@@ -1,0 +1,13 @@
+Questions
+- Write documentation in GitHub Flavored Markdown (0.5 marks)
+- Compress an image (0.75 marks)
+- Host your portfolio on GitHub Pages (0.5 marks)
+- Use Google Colab (0.5 marks)
+- Use an Image Library in Google Colab (0.25 marks)
+- Deploy a Python API to Vercel (1 mark)
+- Create a GitHub Action (1 mark)
+- Push an image to Docker Hub (1 mark)
+- Create a GitHub Codespace (1 mark)
+- Write a FastAPI server to serve data (1 mark)
+- FastAPI Google OAuth Login Verification (1.5 marks)
+- Local Ollama Endpoint (1 mark)

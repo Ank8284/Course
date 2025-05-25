@@ -1,5 +1,6 @@
 # How to Connect to PostgreSQL with psycopg2 in Python
-
+## Overview
+This guide provides a step-by-step approach to connecting to a PostgreSQL database using the `psycopg2` library in Python. It covers installation, connection setup, and executing SQL commands.
 ## Steps to Establish a Connection
 
 1. **Install psycopg2**  
